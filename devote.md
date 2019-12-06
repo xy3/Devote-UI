@@ -363,17 +363,17 @@ In this section we further illustrate the voting system with the use of a data-f
 
 Below is a Data Flow Diagram of the entire decentralized voting system. It illustrates the processes that users of the system can make, and how the data is used in the system.
 
+![Data flow diagram](https://raw.githubusercontent.com/xy3/Devote-UI/master/img/data-flow.png)
 
 ## Context Diagram for Election Privileges
 
-
-
+![Context diagram](https://raw.githubusercontent.com/xy3/Devote-UI/master/img/context.png)
 
 ## 6. Preliminary Schedule
 
 On the following page is a preliminary Gantt chart illustrating our aim for start and end dates for the project tasks and goals. The start and end dates could possibly change along the way due to certain tasks being more or less difficult than we had estimated.
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Gantt Chart](https://raw.githubusercontent.com/xy3/Devote-UI/master/img/gantt.png)
 
 
 ## 7. Appendices
