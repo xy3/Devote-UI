@@ -2,6 +2,15 @@
 
 
 
+| **3.1** Login        |
+| **3.2** Register        |
+| **3.3** Account Privileges |
+| **3.4** Vote        |
+| **3.5** View Vote        |
+| **3.6** Create Election        |
+| **3.7** Search &amp; View Elections        |
+| **3.8** End Election **       ** |
+| **3.9** Membership        |
 | **       ** 2 |
 | --- |
 |         2 |
@@ -14,15 +23,6 @@
 |         5 |
 | |
 | **       ** 5 |
-| **3.1** Login        |
-| **3.2** Register        |
-| **3.3** Account Privileges |
-| **3.4** Vote        |
-| **3.5** View Vote        |
-| **3.6** Create Election        |
-| **3.7** Search &amp; View Elections        |
-| **3.8** End Election **       ** |
-| **3.9** Membership        |
 | |
 | **       ** 13 |
 | |
@@ -204,7 +204,6 @@ Similarly, to the previous system, this function collects personal data and carr
 
 The system is dependent on an accurate registry system that effectively identifies individuals with minimal ways to create multiple accounts per user.
 
-**       **
 
 ## 3.3 Account Privileges
 
@@ -374,7 +373,7 @@ Below is a Data Flow Diagram of the entire decentralized voting system. It illus
 
 On the following page is a preliminary Gantt chart illustrating our aim for start and end dates for the project tasks and goals. The start and end dates could possibly change along the way due to certain tasks being more or less difficult than we had estimated.
 
-##
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
 ## 7. Appendices
