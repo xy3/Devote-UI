@@ -2,35 +2,30 @@
 
 
 
-| **3.1** Login        |
-| **3.2** Register        |
-| **3.3** Account Privileges |
-| **3.4** Vote        |
-| **3.5** View Vote        |
-| **3.6** Create Election        |
-| **3.7** Search &amp; View Elections        |
-| **3.8** End Election **       ** |
-| **3.9** Membership        |
-| **       ** 2 |
-| --- |
-|         2 |
-|         2 |
-|         3 |
-| **       ** 4 |
-|         4 |
-|         4 |
-|         4 |
-|         5 |
-| |
-| **       ** 5 |
-| |
-| **       ** 13 |
-| |
-| **       ** 14 |
-| |
-| **       ** 15 |
-| |
-| **       ** 16 |
+**1.** Introduction	|	2
+**1.1**  Overview	|	2
+**1.2**  Business Context	|	2
+**1.3**  Glossary	|	3
+**2.** General Description	|	4
+**2.1**  Product / System Functions	|	4
+**2.2**  User Characteristics and Objectives	|	4
+**2.3**  Operational Scenarios	|	4
+**2.4**  Constraints	|	5
+**3.** Functional Requirements	|	5
+**3.1**  Login	|	5
+**3.2**  Register	|	6
+**3.3**  Account Privileges |	6
+**3.4**  Vote	|	6
+**3.5**  View Vote	|	7
+**3.6**  Create Election	|	7
+**3.7**  Search & View Elections	|	8
+**3.8**  End Election 	|	8
+**3.9**  Membership	|	9
+**4.** System Architecture	|	13
+**5.** High-Level Design	|	14
+**6.** Preliminary Schedule	|	15
+**7.** Appendices	|	16
+
 
 # 1. Introduction
 
@@ -371,7 +366,7 @@ Below is a Data Flow Diagram of the entire decentralized voting system. It illus
 
 ## 6. Preliminary Schedule
 
-On the following page is a preliminary Gantt chart illustrating our aim for start and end dates for the project tasks and goals. The start and end dates could possibly change along the way due to certain tasks being more or less difficult than we had estimated.
+Below is a preliminary Gantt chart illustrating our aim for start and end dates for the project tasks and goals. The start and end dates could possibly change along the way due to certain tasks being more or less difficult than we had estimated.
 
 ![Gantt Chart](https://raw.githubusercontent.com/xy3/Devote-UI/master/img/gantt.png)
 
