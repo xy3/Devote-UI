@@ -3,29 +3,29 @@
 
 | Section | Page |
 | :--------------------------------- | ----:|
-| 1. Introduction | 2 |
-|     1.1  Overview | 2 |
-|     1.2  Business Context | 2 |
-|     1.3  Glossary | 3 |
-| 2. General Description | 4 |
-|     2.1  Product / System Function | 4 |
-|     2.2  User Characteristics and Objectives | 4 |
-|     2.3  Operational Scenarios | 4 |
-|     2.4  Constraints | 5 |
-| 3. Functional Requirements | 5 |
-|     3.1  Login | 5 |
-|     3.2  Register | 6 |
-|     3.3  Account Privilege | 6 |
-|     3.4  Vote | 6 |
-|     3.5  View Vote | 7 |
-|     3.6  Create Election | 7 |
-|     3.7  Search & View Elections | 8 |
-|     3.8  End Election | 8 |
-|     3.9  Membership | 9 |
-| 4. System Architecture | 13 |
-| 5. High-Level Design | 14 |
-| 6. Preliminary Schedul | 15 |
-| 7. Appendices | 16 |
+| **1. Introduction** | 2 |
+| **1.1**  Overview | 2 |
+| **1.2**  Business Context | 2 |
+| **1.3**  Glossary | 3 |
+| **2. General Description** | 4 |
+| **2.1**  Product / System Function | 4 |
+| **2.2**  User Characteristics and Objectives | 4 |
+| **2.3**  Operational Scenarios | 4 |
+| **2.4**  Constraints | 5 |
+| **3. Functional Requirements** | 5 |
+| **3.1**  Login | 5 |
+| **3.2**  Register | 6 |
+| **3.3**  Account Privilege | 6 |
+| **3.4**  Vote | 6 |
+| **3.5**  View Vote | 7 |
+| **3.6**  Create Election | 7 |
+| **3.7**  Search & View Elections | 8 |
+| **3.8**  End Election | 8 |
+| **3.9**  Membership | 9 |
+| **4. System Architecture** | 13 |
+| **5. High-Level Design** | 14 |
+| **6. Preliminary Schedule** | 15 |
+| **7. Appendices** | 16 |
 
 
 # 1. Introduction
@@ -70,7 +70,7 @@ A decentralized app (DApp) is a computer application that runs on a distributed 
 
 **Metamask**
 
-Metamask is a browser extension that allows the user to run Ethereum Dapps in your browser without running a full Ethereum node. MetaMask includes a secure identity vault, providing a user interface to manage your identities on different sites and sign blockchain transactions.
+Metamask is a browser extension that allows the user to run Ethereum Dapps in your browser without running a full Ethereum node. Metamask includes a secure identity vault, providing a user interface to manage your identities on different sites and sign blockchain transactions.
 
 **Web3 JS (Ethereum JavaScript API)**
 
@@ -180,7 +180,7 @@ As we are storing user data, we need to follow the Ethics Approval process and e
 
 **Dependencies**
 
-For users that aren&#39;t logged in, the site only provides access to preview an election. The entirety of the systems functionality is only available once a user is logged in and identified.
+For users that aren't logged in, the site only provides access to preview an election. The entirety of the systems functionality is only available once a user is logged in and identified.
 
 ## 3.2 Register
 
@@ -267,7 +267,7 @@ This feature is critical to the functionality of the system as without the abili
 
 **Technical Issues**
 
-This feature needs to be developed in a way that doesn&#39;t allow multiple elections to be created by a single user at any given time. This improves the readability of the site and reduces empty or dormant elections from clogging the election list.
+This feature needs to be developed in a way that doesn't allow multiple elections to be created by a single user at any given time. This improves the readability of the site and reduces empty or dormant elections from clogging the election list.
 
 **Dependencies**
 
@@ -361,7 +361,7 @@ Below is a Data Flow Diagram of the entire decentralized voting system. It illus
 
 ![Data flow diagram](https://raw.githubusercontent.com/xy3/Devote-UI/master/img/data-flow.png)
 
-## Context Diagram for Election Privileges
+**Context Diagram for Election Privileges**
 
 ![Context diagram](https://raw.githubusercontent.com/xy3/Devote-UI/master/img/context.png)
 
