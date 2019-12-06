@@ -1,30 +1,31 @@
 ## Table of Contents
 
-Title | Title
------- | -------
-**1.** Introduction	|	2
-**1.1**  Overview	|	2
-**1.2**  Business Context	|	2
-**1.3**  Glossary	|	3
-**2.** General Description	|	4
-**2.1**  Product / System Functions	|	4
-**2.2**  User Characteristics and Objectives	|	4
-**2.3**  Operational Scenarios	|	4
-**2.4**  Constraints	|	5
-**3.** Functional Requirements	|	5
-**3.1**  Login	|	5
-**3.2**  Register	|	6
-**3.3**  Account Privileges |	6
-**3.4**  Vote	|	6
-**3.5**  View Vote	|	7
-**3.6**  Create Election	|	7
-**3.7**  Search & View Elections	|	8
-**3.8**  End Election 	|	8
-**3.9**  Membership	|	9
-**4.** System Architecture	|	13
-**5.** High-Level Design	|	14
-**6.** Preliminary Schedule	|	15
-**7.** Appendices	|	16
+
+| Section | Page |
+| -----------:| ----:|
+| 1. Introduction | 2 |
+|     1.1  Overview | 2 |
+|     1.2  Business Context | 2 |
+|     1.3  Glossary | 3 |
+| 2. General Description | 4 |
+|     2.1  Product / System Function | 4 |
+|     2.2  User Characteristics and Objectives | 4 |
+|     2.3  Operational Scenarios | 4 |
+|     2.4  Constraints | 5 |
+| 3. Functional Requirements | 5 |
+|     3.1  Login | 5 |
+|     3.2  Register | 6 |
+|     3.3  Account Privilege | 6 |
+|     3.4  Vote | 6 |
+|     3.5  View Vote | 7 |
+|     3.6  Create Election | 7 |
+|     3.7  Search & View Elections | 8 |
+|     3.8  End Election | 8 |
+|     3.9  Membership | 9 |
+| 4. System Architecture | 13 |
+| 5. High-Level Design | 14 |
+| 6. Preliminary Schedul | 15 |
+| 7. Appendices | 16 |
 
 
 # 1. Introduction
