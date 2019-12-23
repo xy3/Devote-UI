@@ -14,6 +14,7 @@ if(ltrim($base, '/')){
 
 $router = new \Klein\Klein();
 
+// Match homepage
 $router->respond('GET', '/', function () {
 	show("home.php");
 });
